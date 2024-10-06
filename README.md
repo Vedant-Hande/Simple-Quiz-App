@@ -29,7 +29,6 @@ A simple quiz application built using HTML, CSS, and JavaScript. This app presen
    git clone https://github.com/yourusername/quiz-app.git
 Navigate to the project directory.
 bash
-Copy code
 cd quiz-app
 Open the index.html file in your browser to start the quiz.
 Usage
@@ -47,15 +46,3 @@ Feel free to fork this project and submit pull requests. Any contributions to im
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-
-
-
-
-
-
-
-
-
-ChatG
